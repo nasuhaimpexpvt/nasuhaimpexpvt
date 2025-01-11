@@ -5,7 +5,6 @@ jQuery(document).ready(function(){
 	//aali_tm_hero_image();
 	aali_tm_jarallax();
 	aali_tm_moving_animation();
-	
 });
 
  

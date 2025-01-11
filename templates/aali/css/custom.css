@@ -2166,3 +2166,85 @@ ul.sigFreeClassic li.sigFreeThumb {
     border-radius: 10px;
     margin-right: 20px;
 }
+:root {
+	--one_color: #ea4343;
+	--two_color: #15111e;
+	--three_color: #ba3c3c;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #7d7789;
+	line-height: 1.7;
+	text-decoration: none;
+}
+
+h1 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 800;
+	letter-spacing: -2px;
+	text-decoration: none;
+}
+
+h2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 600;
+	letter-spacing: -2px;
+	text-decoration: none;
+}
+
+h3 {
+	font-family: 'Josefin Sans', sans-serif;
+	letter-spacing: -2px;
+	text-decoration: none;
+}
+
+h4 {
+	font-family: 'Josefin Sans', sans-serif;
+	letter-spacing: -2px;
+	text-decoration: none;
+}
+
+h5 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 600;
+	letter-spacing: -2px;
+	text-decoration: none;
+}
+
+h6 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 600;
+	letter-spacing: -2px;
+	text-decoration: none;
+}
+
+.sp-megamenu-parent>li>a,
+.sp-megamenu-parent>li>span,
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item>a {
+	font-family: 'Josefin Sans', sans-serif;
+	letter-spacing: -2px;
+	text-decoration: none;
+}
+
+.sppb-btn,
+.sp-megamenu-parent>li>a,
+.sppb-progress-label,
+.sp-simpleportfolio .sp-simpleportfolio-filter>ul>li>a,
+.sppb-meta-category a,
+.sppb-meta-date {
+	font-family: 'Josefin Sans', sans-serif;
+	text-decoration: none;
+}
+
+.logo-image {
+	height: 30px;
+}
+
+.logo-image-phone {
+	height: 30px;
+}
+
+
